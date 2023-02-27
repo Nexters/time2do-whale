@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+
+  "name": "TIME2DO",
+  "version": "1.0.0",
+
+  "description": "",
+  "sidebar_action": {
+    "default_title": "Time2Do",
+    "default_icon": {
+      "16": "./icons/",
+      "32": "./icons/"
+    },
+    "default_page": "src/index.html",
+    "use_navigation_bar": true,
+    "mobile_user_agent": true
+  }
+}
